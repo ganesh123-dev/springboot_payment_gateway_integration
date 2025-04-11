@@ -1,4 +1,4 @@
-package in.ashokit.dto;
+package in.ganesh.dto;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

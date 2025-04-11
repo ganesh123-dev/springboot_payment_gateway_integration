@@ -1,4 +1,4 @@
-package in.ashokit.service;
+package in.ganesh.service;
 
 import java.util.Map;
 
@@ -11,8 +11,8 @@ import com.razorpay.Order;
 import com.razorpay.RazorpayClient;
 import com.razorpay.RazorpayException;
 
-import in.ashokit.dto.StudentOrder;
-import in.ashokit.repo.StudentOrderRepo;
+import in.ganesh.dto.StudentOrder;
+import in.ganesh.repo.StudentOrderRepo;
 
 @Service
 public class PaymentService {

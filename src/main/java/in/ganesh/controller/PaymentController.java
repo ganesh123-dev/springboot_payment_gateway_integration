@@ -1,4 +1,4 @@
-package in.ashokit.controller;
+package in.ganesh.controller;
 
 import java.util.Map;
 
@@ -14,8 +14,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import in.ashokit.dto.StudentOrder;
-import in.ashokit.service.PaymentService;
+import in.ganesh.dto.StudentOrder;
+import in.ganesh.service.PaymentService;
 
 @Controller
 @CrossOrigin

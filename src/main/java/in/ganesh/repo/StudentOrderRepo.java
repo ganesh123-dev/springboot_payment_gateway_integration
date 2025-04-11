@@ -1,8 +1,8 @@
-package in.ashokit.repo;
+package in.ganesh.repo;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import in.ashokit.dto.StudentOrder;
+import in.ganesh.dto.StudentOrder;
 
 public interface StudentOrderRepo extends JpaRepository<StudentOrder, Long> {
 
